@@ -79,7 +79,7 @@ LOG_FILE = 'stdout'
 # only needed during the auth process.
 #
 API_ID = '29952679'
-API_HASH = '123'
+API_HASH = 'Api Ash 9d2a052323ac5f0991a9e5dc6b958d5e'
 
 # Bot token. The @BotFather will provide this.
 # See https://core.telegram.org/bots#3-how-do-i-create-a-bot
