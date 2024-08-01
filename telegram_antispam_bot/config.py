@@ -24,7 +24,7 @@ SESSION_NAME = 'antispambot'
 SESSION_DATABASE_MODE = 0o600
 
 # Management group ID, or 0 (don't use such a group)
-MANAGEMENT_GROUP_ID = 0
+MANAGEMENT_GROUP_ID = -4231962583
 
 # Moderation groups. Comma separated set of group IDs to moderate. If
 # empty, the bot will work on any group it was added to.
@@ -78,12 +78,12 @@ LOG_FILE = 'stdout'
 # credentials and then set these to dummy values in the config. They are
 # only needed during the auth process.
 #
-API_ID = '123'
+API_ID = '29952679'
 API_HASH = '123'
 
 # Bot token. The @BotFather will provide this.
 # See https://core.telegram.org/bots#3-how-do-i-create-a-bot
-BOT_TOKEN = '123'
+BOT_TOKEN = '7321290330:AAH12yXCPeZAAgrNekprzYGi3zEt98M6E2I'
 
 ### Challenges
 
